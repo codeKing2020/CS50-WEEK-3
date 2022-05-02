@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: the times are longer than merge, which merge is the fastest, but what makes bubble be sort 1 is that it is the slowest of all three sorts which I executed.
+
+sort2 uses: merge
+
+How do you know?: the times are the shortest of them all, and thanks to the prior lecture, that constitues merge as the best because it's the fastest, merge is sort2
+
+sort3 uses: selection
+
+How do you know?: selection takes the longest time of all times recorded in all the sorts, and due to the prior lecture, it said that selection sort has a theda of n-squared, which is showcased here, since it takes the longest time to sort 10 000 sorted numbers compraed to merge sort and buble sort.
